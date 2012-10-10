@@ -1,6 +1,7 @@
 
 public class TheMotivator {
 
+	
 	public void feedback(int score) {
 		if (score == 100)
 			System.out.println("You're awesome");
