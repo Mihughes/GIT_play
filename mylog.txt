@@ -1,3 +1,4 @@
+* 2nd text change
 * first txt
 * back at master
 * changed to 70
