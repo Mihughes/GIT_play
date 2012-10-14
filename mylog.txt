@@ -1,3 +1,4 @@
+* Busted mylog.txt
 * 2nd text change
 * first txt
 * back at master
