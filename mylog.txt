@@ -1,3 +1,8 @@
+*   To really screw up requires a computer
+|\  
+| * requires a computer, or git.
+* | To really screw up
+|/  
 *   Merge branch 'chg69score'
 |\  
 | *  more chg69branch

@@ -6,6 +6,7 @@ public class TheMotivator {
 		
 		System.out.println("to really screw up ");
 		System.out.println("requires a computer, or git.");
+		System.out.println("blow up");
 		if (score == 100)
 			System.out.println("You're awesome");
 		else if (score == 65)
