@@ -3,6 +3,8 @@ public class TheMotivator {
 
 	
 	public void feedback(int score) {
+		
+		System.out.println("to really screw up ");
 		if (score == 100)
 			System.out.println("You're awesome");
 		else if (score == 65)

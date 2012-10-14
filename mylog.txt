@@ -1,6 +1,12 @@
-* Busted mylog.txt
-* 2nd text change
-* first txt
+*   Merge branch 'chg69score'
+|\  
+| *  more chg69branch
+| * chg69score
+* | fixing mylog.txt
+* | Busted mylog.txt
+* | 2nd text change
+* | first txt
+|/  
 * back at master
 * changed to 70
 * initial java
