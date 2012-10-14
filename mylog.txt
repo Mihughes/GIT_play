@@ -1,4 +1,4 @@
-* chg69score
+* first txt
 * back at master
 * changed to 70
 * initial java
