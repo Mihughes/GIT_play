@@ -1,0 +1,8 @@
+* chg69score
+* back at master
+* changed to 70
+* initial java
+*   Merge branch 'master' of https://github.com/Mihughes/GIT_play
+|\  
+| * Initial commit
+* initial java upload
