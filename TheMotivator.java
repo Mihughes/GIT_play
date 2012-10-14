@@ -5,6 +5,7 @@ public class TheMotivator {
 	public void feedback(int score) {
 		
 		System.out.println("to really screw up ");
+		System.out.println("requires a computer, or git.");
 		if (score == 100)
 			System.out.println("You're awesome");
 		else if (score == 65)
